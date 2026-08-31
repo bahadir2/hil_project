@@ -1,0 +1,11 @@
+===========================================
+  HIL Slave - ESP32
+  CAN Bus HIL Test Sistemi v1.0
+===========================================
+[OK] TWAI baslatildi - 500kbps
+[OK] BBB'den komut bekleniyor...
+
+[RX] Frame alindi: ID=0x100 CMD=0x0F VALUE=0
+[CMD] Heartbeat alindi
+[TX] Cevap gonderildi: STATUS=0xFF CMD=0x0F
+[STAT] RX=18 TX=18 ERR=0
