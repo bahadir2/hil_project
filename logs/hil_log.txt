@@ -1,1 +1,7 @@
-
+[11:10:49] HIL Master baslatildi - can0 @ 500kbps
+[11:10:49] GONDERILDI: [Heartbeat] CMD=0x0F VALUE=0
+[11:10:49] BASARILI: [Heartbeat] ESP32 cevabi OK
+[11:10:50] GONDERILDI: [Motor RPM 3000] CMD=0x01 VALUE=3000
+[11:10:50] BASARILI: [Motor RPM 3000] ESP32 cevabi OK
+...
+[11:10:53] OZET: Toplam=4 Basarili=4 Basarisiz=0
