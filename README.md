@@ -114,7 +114,7 @@ Signal captured on CAN-H line at 500 kbps, 87.5 % sample point.
 - Frame interval: ~50 ms
 - Round-trip latency: < 1 ms
 
-![Logic Analyzer](docs/logic_analyzer.png)
+![Logic Analyzer](docs/logic_analyzer.jpg)
 
 ---
 
